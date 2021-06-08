@@ -64,7 +64,8 @@ function test(states){
 					break;	
 				default:
 					copciones=0;
-					break;
+					return;
+	
 				}
 		}
 	setTimeout(function(){test(states); }, 2000);
