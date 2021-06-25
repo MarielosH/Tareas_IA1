@@ -180,7 +180,7 @@ function libre_movimiento(matrizjuego, turno, fila, columna){
 
     
 }
-/*
+
 function getReversePoints(matrizt,turnot, i,j){
 
     let allReversePoints = new ArrayList();
@@ -291,4 +291,4 @@ function getReversePoints(matrizt,turnot, i,j){
     }
 
     return allReversePoints;
-}*/
+}
